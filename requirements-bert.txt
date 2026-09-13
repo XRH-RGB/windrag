@@ -1,0 +1,4 @@
+# Optional. The main application still runs with the Python standard library only.
+torch>=2.6,<3
+transformers>=4.48,<6
+safetensors>=0.5
